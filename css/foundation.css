@@ -962,7 +962,7 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #2ba6cb;
+  color: deeppink;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
@@ -1242,13 +1242,13 @@ button, .button {
   padding-bottom: 0.8125em;
   padding-left: 1.5em;
   font-size: 1em;
-  background-color: #2ba6cb;
-  border-color: #2284a1;
-  color: white; }
+  background-color: #ffb0b0;
+  border-color: peachpuff;
+  color: black; }
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #2284a1; }
+    background-color: hotpink; }
   button:hover, button:focus, .button:hover, .button:focus {
-    color: white; }
+    color: black; }
   button.secondary, .button.secondary {
     background-color: #e9e9e9;
     border-color: #d0d0d0;
